@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Payment = () => {
+const index = () => {
   return <div>결제</div>;
 };
 
-export default Payment;
+export default index;
